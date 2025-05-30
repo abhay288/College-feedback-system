@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+textblob
+nltk
+vaderSentiment
+sqlalchemy
+jose
+passlib
+python-dotenv
